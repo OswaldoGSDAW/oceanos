@@ -1,3 +1,56 @@
 body{
-    background-color: #a8f7f7;
+
+background-image: linear-gradient(353deg, rgba(0, 74, 185, 0.76) 22.92%, rgba(226, 255, 229, 0.76) 56%);
+background-repeat: no-repeat;
+z-index: 0;
+overflow-x: hidden;
+}
+p.titulo{
+    width: 1309px;
+height: 101px;
+opacity: 100%;
+    color: #B8009A;
+font-family: Margarine;
+font-size: 90px;
+
+font-weight: bold;
+
+
+
+
+z-index: 10;
+}
+p.boton{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    background-color: darkgreen;
+    border-radius: 10px;
+    width:max-content;
+    padding: 10px;
+
+}
+img.derecha{
+    position: absolute  ;
+    top: -50px;
+    right: -200px;
+    z-index: -2;
+    opacity: 80% ;
+
+
+    overflow: hidden;
+}
+img.burbujas{
+    position: fixed;
+    top: -100px;
+    right: 0;
+    z-index: -1;
+    opacity: 50%;
+}
+img.coral{
+    position: fixed;
+    bottom: -150px;
+    left:-180px;
+    z-index: -1;
+    opacity: 50%;
 }
