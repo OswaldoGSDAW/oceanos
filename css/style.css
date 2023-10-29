@@ -1,56 +1,84 @@
-body{
+header.cabecera{
+    background-color: #10379F;
+    width: 1440px;
+    height: 79px;
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
 
-background-image: linear-gradient(353deg, rgba(0, 74, 185, 0.76) 22.92%, rgba(226, 255, 229, 0.76) 56%);
-background-repeat: no-repeat;
-z-index: 0;
-overflow-x: hidden;
 }
-p.titulo{
-    width: 1309px;
-height: 101px;
-opacity: 100%;
-    color: #B8009A;
-font-family: Margarine;
-font-size: 90px;
-
-font-weight: bold;
-
-
-
-
-z-index: 10;
+section.portada{
+color: white;
+    text-align: center;
+    position:absolute ;
+    left:20%;
+    right: 20%;
 }
-p.boton{
-    font-size: 25px;
-    font-weight: bold;
+h1.portada{
+    font-weight: 50;
+    font-family:arial;
+    font-style:normal;
+letter-spacing: 3px;
+word-spacing: 5px;
+    font-size: 64px;
+}
+
+img.cabecera{
+    width: 74px;
+    margin-right: 540px;
+    padding-left:10px;
+    padding-top: 2px;
+    vertical-align: middle;
+}
+h3{
+    font-weight: 50;
+    font-family:arial;
+    font-style:normal;
+
+    font-size: 24px;
+}
+a.nav{
+
     color: white;
-    background-color: darkgreen;
-    border-radius: 10px;
-    width:max-content;
-    padding: 10px;
+    font-family:arial;
+    font-style:normal;
+    padding-top: 12px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    margin-right: 5%;
+}
+
+body{
+background-color: #F0F0F0;
 
 }
-img.derecha{
-    position: absolute  ;
-    top: -50px;
-    right: -200px;
-    z-index: -2;
-    opacity: 80% ;
+section{
+    text-align: center;
+}
+table.portada{
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
 
 
-    overflow: hidden;
 }
-img.burbujas{
-    position: fixed;
-    top: -100px;
-    right: 0;
-    z-index: -1;
-    opacity: 50%;
+th{
+    padding:15px;
+    padding-bottom: 0%;
+    width: 301px;
 }
-img.coral{
-    position: fixed;
-    bottom: -150px;
-    left:-180px;
-    z-index: -1;
-    opacity: 50%;
+td{
+    padding:0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-align: center;
+}
+footer{
+    background-color: #92AFFE;
+    width: 1440px;
+    height: 79px;
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
 }
