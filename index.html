@@ -4,11 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ocean site</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
     <link rel="stylesheet" href="css/style.css">
 </head>
 <header class="cabecera">
-  <img class="cabecera" src="./img/logoOceano2 1.png" alt="logoOceano2" width="74">
-<ul class="nav">
+  <img class="cabecera content wow animate__animated animate__backInRight" src="./img/logoOceano2 1.png" alt="logoOceano2" width="74">
+<ul class="nav content wow animate__animated animate__backInLeft">
   <a class="nav" href="#">Contacto</a>
   <a class="nav" href="#">Vídeos</a>
   <a class="nav" href="#">Imágenes</a>
@@ -19,27 +21,32 @@
 
 </header>
 
+
 <body>
 
-    <section class="portada"><h1 class="portada">Explora el Fascinante Mundo de la Vida Marina</h1></section>
-    <section class="img"><img src="img/imagen1Oceano2 1.png" alt="imagen1Oceano2"></section>
+  <section class="content wow animate__animated animate__bounceInDown" data-wow-duration="3s"><h1 class="portada">Explora el Fascinante Mundo <br>de la Vida Marina</h1></section>
+    <section class="img"><img class="content wow animate__animated animate__fadeIn" data-wow-duration="1s" src="img/imagen1Oceano2 1.png" alt="imagen1Oceano2"></section>
+
 
 
 
 
   <section class="columnas">
 
-    <li><img src="img/oceano2Imagen2 1.png" alt="oceano2Imagen2" width="301px" height="311px"></li>
-    <li><h3>Conoce nuestros<br>océanos</h3></li>
-    <li> <img src="img/oceano2Imagen3 1.png" alt="oceano2Imagen3" width="301px" height="311px"></li>
-    <li><h3>Conoce a sus<br>habitantes</h3></li>
-    <li> <img src="img/oceano2Imagen4 1.png" alt="oceano2Imagen4" width="301px" height="311px"></li>
-    <li><h3>Curiosidades de los<br>mares y océanos</h3></li>
-    <li> <img src="img/oceano2Imagen5 1.png" alt="oceano2Imagen5" width="301px" height="311px"></li>
-    <li><h3>Cómo podemos<br>cuidarlo</h3></li>
+    <li><img class="card-content wow animate__animated animate__fadeIn" data-wow-duration="2s" src="img/oceano2Imagen2 1.png" alt="oceano2Imagen2" width="301px" height="311px"></li>
+    <li class="content wow animate__animated animate__fadeIn" data-wow-duration="2s"><h3>Conoce nuestros<br>océanos</h3></li>
+    <li> <img class="card-content wow animate__animated animate__fadeIn" data-wow-duration="3s" src="img/oceano2Imagen3 1.png" alt="oceano2Imagen3" width="301px" height="311px"></li>
+    <li class="content wow animate__animated animate__fadeIn" data-wow-duration="3s" ><h3>Conoce a sus<br>habitantes</h3></li>
+    <li> <img class="card-content wow animate__animated animate__fadeIn" data-wow-duration="4s" src="img/oceano2Imagen4 1.png" alt="oceano2Imagen4" width="301px" height="311px"></li>
+    <li class="content wow animate__animated animate__fadeIn" data-wow-duration="4s"><h3>Curiosidades de los<br>mares y océanos</h3></li>
+    <li> <img class="card-content wow animate__animated animate__fadeIn" data-wow-duration="5s" src="img/oceano2Imagen5 1.png" alt="oceano2Imagen5" width="301px" height="311px"></li>
+    <li class="content wow animate__animated animate__fadeIn" data-wow-duration="5s"><h3>Cómo podemos<br>cuidarlo</h3></li>
 
   </section>
 
+  <script>
+    new WOW().init();
+  </script>
 </body>
 <footer>
   <section class="ubica">Dónde estamos</section>
