@@ -1,8 +1,11 @@
-**1. INTRODUCCIÓN** 
+
+## 1. INTRODUCCIÓN
 
 	1.1. Justificación 
  
-	- La justificación es intentar concienciar a la gente que si se destruye el mar y los océanos vamos hacia un futuro incierto, con lo cual es mejor la preservación del entorno tanto marino como terrestre y no sobre explotar la pesca indiscriminada de especies marinas. También quiero que la gente conozca el sistema marino y que se quede encantado de ver lo que existe en los océanos
+	- La justificación es intentar concienciar a la gente que si se destruye el mar y los océanos vamos hacia un futuro incierto, 
+ 	con lo cual es mejor la preservación del entorno tanto marino como terrestre y no sobre explotar la pesca indiscriminada de especies marinas. 
+  	También quiero que la gente conozca el sistema marino y que se quede encantado de ver lo que existe en los océanos
  
 	1.2. Objetivos
  
@@ -14,12 +17,16 @@
 		- Exponer las organizaciones y los movimierntos que hay para la preservación del entorno marino.
   
 	1.3. Comparativa
-			- Comparar el proyecto con otros similares o existentes. 
-				-- ¿Hay otras iniciativas o aplicaciones relacionadas con la conservación del entorno marino? 
-				-- ¿En qué aspectos se diferencia tu proyecto? 
-				-- ¿Qué ventajas ofrece?
-
-**2. ANÁLISIS Y PLANIFICACIÓN** 
+		- Comparar el proyecto con otros similares o existentes. 
+			-- ¿Hay otras iniciativas o aplicaciones relacionadas con la conservación del entorno marino? 
+			-- ¿En qué aspectos se diferencia tu proyecto? 
+			-- ¿Qué ventajas ofrece?
+		- Sitios donde se han buscado recursos
+  			-- Imágenes
+  				--- https://www.istockphoto.com/es/search/2/image?phrase=oceanos%20ong
+     			-- Diseño
+	 			--- https://uicolors.app/create
+## 2. ANÁLISIS Y PLANIFICACIÓN 
 
 	2.1. Análisis 
 		- 2.1.1. Requisitos funcionales de los usuarios
@@ -28,18 +35,18 @@
   
 	2.2. Planificación y fases del desarrollo 
  
-**3. DESARROLLO**
+## 3. DESARROLLO
 
 	3.1. Diseño
 	3.2. Funcionalidad 
 	3.3. Codificación 
 	 3.4. Mantenimiento 
   
-**4. AMPLIACIONES** 
+## 4. AMPLIACIONES
 
 	4.1. Mejora de código 
 	4.2. Soporte de idiomas 
  
-**5. EVALUACIÓN Y CONCLUSIONES FINALES** 
+## 5. EVALUACIÓN Y CONCLUSIONES FINALES 
 
-**6. REFERENCIAS** 
+## 6. REFERENCIAS
