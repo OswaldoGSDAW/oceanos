@@ -24,10 +24,24 @@
 		- Sitios donde se han buscado recursos
   			-- Imágenes
   				--- https://www.istockphoto.com/es/search/2/image?phrase=oceanos%20ong
+      				--- https://www.agenciasinc.es/Noticias/El-sistema-de-corrientes-del-oceano-Atlantico-podria-colapsar-a-mediados-de-siglo
+	  			--- https://upload.wikimedia.org/wikipedia/commons/2/21/Fish-collage-1502404.jpg
+      				--- https://www.nationalgeographic.com.es/ciencia/oceanos-almacen-mundial-co2_14206
+	  			--- 
      			-- Diseño
 	 			--- https://uicolors.app/create
+     				--- https://tintmint.net/
+	 			--- Iconos https://yesicon.app/search/youtube
+     				--- https://uicolors.app/create
+	 			--- https://oceana.org/
+     				--- 
      			-- Datos
 				--- https://www.biodiversidad.gob.mx/ecosistemas/ecosismex/ambiente-pelagico
+    				--- https://public.wmo.int/es/nuestro-mandato/esferas-de-inter%C3%A9s/oc%C3%A9anos/tiempo-y-clima
+				--- https://www.nationalgeographic.es/medio-ambiente/2020/12/catorce-paises-se-comprometen-a-proteger-los-oceanos
+    				--- 
+
+ 
 ## 2. ANÁLISIS Y PLANIFICACIÓN 
 
 	2.1. Análisis 
