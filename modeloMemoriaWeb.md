@@ -26,6 +26,8 @@
   				--- https://www.istockphoto.com/es/search/2/image?phrase=oceanos%20ong
      			-- Diseño
 	 			--- https://uicolors.app/create
+     			-- Datos
+				--- https://www.biodiversidad.gob.mx/ecosistemas/ecosismex/ambiente-pelagico
 ## 2. ANÁLISIS Y PLANIFICACIÓN 
 
 	2.1. Análisis 
