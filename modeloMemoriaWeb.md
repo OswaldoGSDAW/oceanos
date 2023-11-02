@@ -1,5 +1,5 @@
 
-## 1. INTRODUCCIÓN
+## 1. INTRODUCCIÓN https://oceanos.vercel.app
 
 	1.1. Justificación 
  
@@ -34,6 +34,8 @@
 	 			--- Iconos https://yesicon.app/search/youtube
      				--- https://uicolors.app/create
 	 			--- https://oceana.org/
+     				--- https://www.oceanario.pt
+	 			--- https://theoceancleanup.com/rivers/
      				--- 
      			-- Datos
 				--- https://www.biodiversidad.gob.mx/ecosistemas/ecosismex/ambiente-pelagico
