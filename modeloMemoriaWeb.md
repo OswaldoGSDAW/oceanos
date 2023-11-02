@@ -24,7 +24,7 @@
 		- Sitios donde se han buscado recursos
   			-- Imágenes
      
-  				--- [istockphoto](https://www.istockphoto.com/es/search/2/image?phrase=oceanos%20ong)
+  				[istockphoto](https://www.istockphoto.com/es/search/2/image?phrase=oceanos%20ong)
       
       				--- https://www.agenciasinc.es/Noticias/El-sistema-de-corrientes-del-oceano-Atlantico-podria-colapsar-a-mediados-de-siglo
 	  
