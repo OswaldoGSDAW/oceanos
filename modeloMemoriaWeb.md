@@ -29,13 +29,20 @@
     
 	Características de la página web de la organización sin fines de lucro dedicada a la conservación marina:
 
-	La página web de la organización presenta una página principal que sirve como punto central de acceso al contenido más relevante relacionado con la conservación marina. En esta página principal, los visitantes se encuentran con una imagen destacada de un fondo marino con el título **"Explora el Fascinante Mundo de la Vida Marina"**.
-	En la parte superior un navegador Que nos lleva a diferentes galerías de imágenes y de videos. También se cuenta con un menú desplegable que nos lleva a diferentes galerías de animales según categorías. Al final  hay un enlace para contactar.
+	La página web de la organización presenta una página principal que sirve como punto central de acceso al contenido más relevante relacionado con la conservación marina. 
+ 	En esta página principal, los visitantes se encuentran con una imagen destacada de un fondo marino con el título **"Explora el Fascinante Mundo de la Vida Marina"**.
+	En la parte superior un navegador Que nos lleva a diferentes galerías de imágenes y de videos. También se cuenta con un menú desplegable que nos lleva a diferentes 
+ 	galerías de animales según categorías. Al final  hay un enlace para contactar.
 	
-	A continuación, se ofrece una galería de imágenes que nos lleva a las siguientes secciones:Conoce nuestros océanos, donde se ofrece información variada sobre los océanos. Conoce a sus habitantes donde se puede ver una breve explicación de los animales que viven según la profundidad. Curiosidades de los océanos donde se ofrecen datos curiosos de los océanos. Cómo podemos cuidarlo donde se muestra acciones que se pueden hacer para no contaminar los océanos.
+	A continuación, se ofrece una galería de imágenes que nos lleva a las siguientes secciones:
+ 	Conoce nuestros océanos, donde se ofrece información variada sobre los océanos. 
+ 	Conoce a sus habitantes donde se puede ver una breve explicación de los animales que viven según la profundidad. 
+  	Curiosidades de los océanos donde se ofrecen datos curiosos de los océanos. C
+   	ómo podemos cuidarlo donde se muestra acciones que se pueden hacer para no contaminar los océanos.
 	
 	
-	La página web concluye con información de contacto, incluyendo una dirección de correo electrónico y un formulario de contacto. Esto permite a los visitantes ponerse en contacto con la organización para hacer preguntas o expresar su interés en apoyar la conservación marina.
+	La página web concluye con información de contacto, incluyendo una dirección de correo electrónico y un formulario de contacto. 
+ 	Esto permite a los visitantes ponerse en contacto con la organización para hacer preguntas o expresar su interés en apoyar la conservación marina.
 	
 	Además de la página principal, la web ofrece siete páginas adicionales donde los usuarios pueden navegar para obtener información detallada sobre diversos aspectos de la conservación marina:
 	
