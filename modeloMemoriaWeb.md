@@ -3,11 +3,27 @@
 
 	1.1. Justificación 
  
-	- La justificación es intentar concienciar a la gente que si se destruye el mar y los océanos vamos hacia un futuro incierto, 
- 	con lo cual es mejor la preservación del entorno tanto marino como terrestre y no sobre explotar la pesca indiscriminada de especies marinas. 
-  	También quiero que la gente conozca el sistema marino y que se quede encantado de ver lo que existe en los océanos
+	- Una organización sin fines de lucro dedicada a la conservación marina necesita una plataforma en línea para difundir información 
+ 	  sobre la importancia de cuidar los océanos y la vida marina. 
+    	  La página web deberá servir como una herramienta educativa para involucrar a la comunidad en proyectos de conservación y recaudación de fondos.
  
 	1.2. Objetivos
+ 	
+	1. Concientización y Educación: Uno de los objetivos principales sería aumentar la conciencia pública sobre la importancia de los océanos y la necesidad de su conservación. 
+ 	   La página web proporcionará información educativa detallada sobre los ecosistemas marinos, la biodiversidad y los desafíos que enfrentan.
+	
+	2. Promoción de la Conservación: La página web servirá como una plataforma para promover proyectos y programas de conservación específicos que la organización lleva a cabo. 
+ 	   Esto incluiría detalles sobre proyectos de limpieza de playas, programas de rehabilitación de vida marina, etc.
+	
+	3. Recaudación de Fondos: La organización depende de donaciones para financiar sus actividades, la página deberá tener como objetivo facilitar la recaudación de fondos en línea. 
+ 	   Hay que incluir opciones para donar en línea, patrocinios corporativos y campañas de recaudación de fondos.
+	
+	4. Comunidad en línea: Fomentar la creación de una comunidad en línea comprometida con la conservación marina. 
+ 	   Esto podría incluirá redes sociales para conectarse con personas interesadas en el tema.
+	
+	5. Información Accesible: Asegurarse de que la información sea fácilmente accesible y comprensible para un público diverso. 
+ 	   Esto implica la creación de contenido en diferentes formatos, como artículos, videos, infografías y más, para llegar a una amplia audiencia.
+
  
     - 1.2.1. Características de la aplicación
     
