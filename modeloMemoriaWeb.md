@@ -27,10 +27,33 @@
  
     - 1.2.1. Características de la aplicación
     
-		- Desarrollar una aplicación web que conciencie a las personas sobre la importancia de preservar el entorno marino y terrestre.
-		- Promover la conservación de los océanos y mares, así como la sostenibilidad en la pesca marina.
-		- Educar a la audiencia sobre el ecosistema marino y sus maravillas para fomentar el respeto y cuidado de este entorno vital.
-		- Exponer las organizaciones y los movimierntos que hay para la preservación del entorno marino.
+	Características de la página web de la organización sin fines de lucro dedicada a la conservación marina:
+
+	La página web de la organización presenta una página principal que sirve como punto central de acceso al contenido más relevante relacionado con la conservación marina. En esta página principal, los visitantes se encuentran con una imagen destacada de un fondo marino con el título **"Explora el Fascinante Mundo de la Vida Marina"**.
+	En la parte superior un navegador Que nos lleva a diferentes galerías de imágenes y de videos. También se cuenta con un menú desplegable que nos lleva a diferentes galerías de animales según categorías. Al final  hay un enlace para contactar.
+	
+	A continuación, se ofrece una galería de imágenes que nos lleva a las siguientes secciones:Conoce nuestros océanos, donde se ofrece información variada sobre los océanos. Conoce a sus habitantes donde se puede ver una breve explicación de los animales que viven según la profundidad. Curiosidades de los océanos donde se ofrecen datos curiosos de los océanos. Cómo podemos cuidarlo donde se muestra acciones que se pueden hacer para no contaminar los océanos.
+	
+	
+	La página web concluye con información de contacto, incluyendo una dirección de correo electrónico y un formulario de contacto. Esto permite a los visitantes ponerse en contacto con la organización para hacer preguntas o expresar su interés en apoyar la conservación marina.
+	
+	Además de la página principal, la web ofrece siete páginas adicionales donde los usuarios pueden navegar para obtener información detallada sobre diversos aspectos de la conservación marina:
+	
+	1. Historia de la Organización: Aquí, los visitantes pueden aprender sobre los orígenes y el desarrollo de la organización en su misión de proteger los océanos.
+	
+	2. Ecosistemas Marinos: Esta página proporciona información detallada sobre los diferentes ecosistemas marinos y su importancia para el equilibrio ambiental.
+	
+	3. Biodiversidad Marina: Se enfoca en la diversidad de vida marina y destaca la necesidad de conservarla.
+	
+	4. Programas de Conservación: Aquí, se detallan los proyectos y programas específicos que la organización realiza para preservar los océanos.
+	
+	5. Cómo Ayudar: Esta sección ofrece a los visitantes oportunidades para involucrarse, como donaciones, voluntariado y consejos sobre prácticas sostenibles.
+	
+	6. Recursos Educativos: Proporciona materiales educativos, como guías y documentos descargables, para aprender más sobre la conservación marina.
+	
+	7. Blog y Noticias: Un espacio dedicado a las últimas noticias y actualizaciones sobre la organización y los temas relacionados con la conservación marina.
+	
+	En conjunto, esta página web ofrece una experiencia completa y educativa para los visitantes, con el objetivo de crear conciencia y fomentar la acción en apoyo a la conservación de los océanos.
   
 	1.3. Comparativa
 		- Comparar el proyecto con otros similares o existentes. 
