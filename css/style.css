@@ -42,10 +42,12 @@ h3{
     font-family:arial;
     font-style:normal;
 
-    font-size: 24px;
+    font-size: 20px;
 }
 .sig{
-    padding-top: 22px;
+    padding-top: 35px;
+    letter-spacing: 1.5px;
+    word-spacing: 3px;
     margin-bottom: 15px;
 }
 .nav{
@@ -53,23 +55,56 @@ h3{
     color: white;
     font-family:arial;
     text-decoration: none;
-    padding-top:0px;
+    padding-top:10px;
     margin-right: 40px;
-    font-size: 22px;
+
     padding-left:15px;
     padding-right: 15px;
     letter-spacing: 1px;
 
 
 }
-a:hover{
-    padding-top: 0px;
-    padding-bottom: 2px;
 
-    background-color: #92AFFE;
-
-
+#menu ul{
+    list-style:none;
+    margin:0;
+    padding:0;
 }
+#menu ul a{
+    display:block;
+    color:#fff;
+    text-decoration:none;
+    font-weight:400;
+    font-size:18px;
+    padding:10px;
+}
+#menu ul li{
+    float:left;
+    margin:0;
+    padding:0;
+}
+#menu ul li:hover{
+    background:#0328fe;
+}
+#menu ul ul{
+    display: none;
+   position: absolute;
+   text-align: left;
+   overflow: hidden;
+   z-index: 10;
+}
+#menu ul ul a{
+    display: block;
+    padding:10px 15px;
+}
+#menu ul ul li{
+    float: none;
+}
+#menu ul li:hover > ul{
+    display: block;
+    background: #10379F;
+}
+
 body{
 background-color: #F0F0F0;
 
@@ -90,13 +125,17 @@ section{
 
 footer{
     padding-top: 1px;
-    background-color: #92AFFE;
+    background-color: #10379F;
     width: 1440px;
     height: 131px;
     padding-left:35px;
     color:white;
     margin-left: auto;
     margin-right: auto;
+}
+footer a{
+    margin-left: 15px;
+    color:white
 }
 .ubica{
     float: inline-end;
@@ -106,5 +145,17 @@ footer{
     font-style:normal;
 letter-spacing: 1px;
 word-spacing: 5px;
-    font-size: 24px;
+    font-size: 20px;
+}
+.ubica a{
+
+    text-decoration: none;
+}
+.ubica img{
+
+vertical-align: middle;
+
+}
+#redes{
+    text-align: left;
 }
