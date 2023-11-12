@@ -147,6 +147,7 @@ Se van a usar imágenes de temas marinos para el enlace a los diferentes sitios 
 Optamos por un estilo más actual que es el que hoy en día se ve más en todos los sitios que se han visitado.
 
 ![](index.png)
+
 En la header cuenta con un título y un navegador que nos lleva a diferentes secciones del sitio.
 
 Le sigue un título principal y un subtítulo sobre fondo de una imagen de tema marino.
@@ -155,10 +156,16 @@ Debajo una galería de imágenes donde se podrá ir a diferentes zonas del sitio
 En el footer, los enlaces a las redes sociales y  un enlace donde indique la sede de la organización.
 
 En la página <i>Conoce nuestros océanos</i> encontramos qué funciones tienen los océanos en el planeta en una secuencia de imágenes combinadas con texto.
+
 ![](conoceOceanos.png) 
 
 En la página <i>Conoce sus habitantes</i> se muestran las diferentes zonas de profundidad de los océanos y el tipo de animales que habitan en ella con más información. Está dividida entre texto e imágenes.
+
 ![](nuestrosAnimales.png)
+
+El la página de galería de imágenes una galería donde se muestran imágenes referentes al mundo marino
+
+![](galeriaImagenes.png)
 
 3.2. Funcionalidad 
 - Se pretende que se llegue a todos los sitios de la web en los menos pasos posibles dejando claramente expuestos todos los sitios de los que se compone la web
