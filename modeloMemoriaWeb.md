@@ -1,3 +1,5 @@
+# Proyecto Océano
+
 ## 1. INTRODUCCIÓN https://oceanos.vercel.app
 
 1.1. Justificación 
@@ -166,6 +168,10 @@ En la página <i>Conoce sus habitantes</i> se muestran las diferentes zonas de p
 El la página de galería de imágenes una galería donde se muestran imágenes referentes al mundo marino
 
 ![](galeriaImagenes.png)
+
+En la página galería de vídeos mostramos los vídeos con un título, una descripción y la duración. El video está en pausa y sin sonido
+
+![](galeriaVideos.png)
 
 3.2. Funcionalidad 
 - Se pretende que se llegue a todos los sitios de la web en los menos pasos posibles dejando claramente expuestos todos los sitios de los que se compone la web
