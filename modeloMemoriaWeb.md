@@ -173,6 +173,14 @@ En la página galería de vídeos mostramos los vídeos con un título, una desc
 
 ![](galeriaVideos.png)
 
+En la página de curiosidades, datos de algunos ejemplos de lo que se encuentra en los océanos.
+
+![](curiosidades.png)
+
+En la página de cuidados, algunos ejemplos de lo que se puede hacer para salvaguardar los océanos.
+
+![](cuidados.png)
+
 3.2. Funcionalidad 
 - Se pretende que se llegue a todos los sitios de la web en los menos pasos posibles dejando claramente expuestos todos los sitios de los que se compone la web
 3.3. Codificación 
