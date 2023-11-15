@@ -181,16 +181,33 @@ En la página de cuidados, algunos ejemplos de lo que se puede hacer para salvag
 
 ![](cuidados.png)
 
+Una página de contacto donde nos pueden enviar mensaje y está la dirección de la sede
+
+![](contacto.png)
+
 3.2. Funcionalidad 
 - Se pretende que se llegue a todos los sitios de la web en los menos pasos posibles dejando claramente expuestos todos los sitios de los que se compone la web
+- Se han tomado diseños generalistas de  los sitios pero se ha buscado un sistema que quedase lo mas sencillo posible y claro para facilitar al usuario la navegación.
 3.3. Codificación 
+- Se ha usado HTML5 y CSS, en un futuro se usará Bootstrap
+ 
  3.4. Mantenimiento 
+- Inicialmente no requiere el mantenimiento especial a no ser por motivos adaptativos a diferentes formatos de visores que se usen, televisión, teléfonos, tabletas...Este será por demanda del cliente si las tecnologías cambian y el sitio debe ser más adaptable, en el momento de la entrega nos aseguraremos que el diseño se adapte a la mayoría de pantallas que se usan al día de hoy. 
 
 ## 4. AMPLIACIONES
 
 4.1. Mejora de código 
+- Implementar tablas en curiosidades mostrando datos de los mares
+- Rehacer las imágenes que no tienen el suficiente contraste
+- Mejorar el formulario de contacto para poner mas opciones como asociarse, ser voluntario o ser mentor
+- Crear un calendario de eventos en tabla
+
 4.2. Soporte de idiomas 
+- Por ahora no hay soporte de idiomas, en un futuro se le pondrá una traducción a varios idiomas.
 
 ## 5. EVALUACIÓN Y CONCLUSIONES FINALES 
-
+- La web intenta mostrar al visitante el mundo marino, no intenta ser aleccionadora de nada.
+- Nota 7 
 ## 6. REFERENCIAS
+
+En la sección de comparativa se han puesto los enlaces a los sitios donde se han recogido ideas.
