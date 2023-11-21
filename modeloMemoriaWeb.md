@@ -127,39 +127,39 @@ En conjunto, esta página web ofrece una experiencia completa y educativa para l
 
 2.2. Planificación y fases del desarrollo 
 
-	**Semana 1: Del 23/10 al 29/10**
+**Semana 1: Del 23/10 al 29/10**
  
-		Día 1 (23/10): Reunión inicial para definir roles y responsabilidades.
+- Día 1 (23/10): Reunión inicial para definir roles y responsabilidades.
   
-		Día 2 (24/10): Investigación inicial y recopilación de recursos necesarios.
+- Día 2 (24/10): Investigación inicial y recopilación de recursos necesarios.
   
-		Día 3 (27/10): Comienza a trabajar en la estructura y diseño general del proyecto.
+- Día 3 (27/10): Comienza a trabajar en la estructura y diseño general del proyecto.
   
-		Día 4 (30/10): Reunión de seguimiento para discutir el progreso y planificar la próxima semana.
+- Día 4 (30/10): Reunión de seguimiento para discutir el progreso y planificar la próxima semana.
   
 **Semana 2: Del 30/10 al 5/11**
 
-Día 5 (31/10): Continúa trabajando en el diseño y comienza a implementar las funcionalidades básicas.
+- Día 5 (31/10): Continúa trabajando en el diseño y comienza a implementar las funcionalidades básicas.
 
-Día 6 (2/11): Realiza pruebas preliminares para asegurarte de que el proyecto está en el camino correcto.
+- Día 6 (2/11): Realiza pruebas preliminares para asegurarte de que el proyecto está en el camino correcto.
 
-Día 7 (3/11): Reunión para evaluar el progreso y ajustar el enfoque si es necesario.	
+- Día 7 (3/11): Reunión para evaluar el progreso y ajustar el enfoque si es necesario.	
 
 **Semana 3: Del 6/11 al 12/11**
 
-Día 8 (7/11): Completa la implementación de las funcionalidades principales.
+- Día 8 (7/11): Completa la implementación de las funcionalidades principales.
 
-Día 9 (9/11): Realiza pruebas exhaustivas y corrige errores.
+- Día 9 (9/11): Realiza pruebas exhaustivas y corrige errores.
 
-Día 10 (13/11): Reunión para revisar y pulir detalles finales.
+- Día 10 (13/11): Reunión para revisar y pulir detalles finales.
 
 **Semana 4: Del 13/11 al 19/11**
 
-Día 11 (14/11): Prepara la documentación necesaria y finaliza cualquier aspecto pendiente.
+- Día 11 (14/11): Prepara la documentación necesaria y finaliza cualquier aspecto pendiente.
 
-Día 12 (16/11): Realiza una revisión final del proyecto y garantiza que todo esté en orden.
+- Día 12 (16/11): Realiza una revisión final del proyecto y garantiza que todo esté en orden.
 
-Día 13 (17/11): Prepara la entrega final del proyecto.
+- Día 13 (17/11): Prepara la entrega final del proyecto.
 
 
 
