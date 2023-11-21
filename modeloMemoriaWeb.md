@@ -112,17 +112,14 @@ En conjunto, esta página web ofrece una experiencia completa y educativa para l
 
 2.1. Análisis 
 
-	- 2.1.1. Requisitos funcionales de los usuarios
- 
-		- El usuario deberá trener un navegador web y conexión a internet. 
+- 2.1.1. Requisitos funcionales de los usuarios
+	- El usuario deberá trener un navegador web y conexión a internet. 
   
-	- 2.1.2. Requisitos de la aplicación 
- 
-		- El sitio se alojará en un servidor web con los programas necesarios para poder mostrar el siitio.
+- 2.1.2. Requisitos de la aplicación 
+	- El sitio se alojará en un servidor web con los programas necesarios para poder mostrar el siitio.
   
-	- 2.1.2. Lenguaje en la parte cliente 
- 
-		- El sitio está desarrollado con HTML 5 y CSS
+- 2.1.2. Lenguaje en la parte cliente 
+	- El sitio está desarrollado con HTML 5 y CSS
   
 
 2.2. Planificación y fases del desarrollo 
