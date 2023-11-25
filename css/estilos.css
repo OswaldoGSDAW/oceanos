@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 42px;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    width: 100%;
+    background-color: #10379F;
+    height: 90px;
+}
+
+.logo{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.titulo{
+    display: inline-block;
+    color: aliceblue;
+    margin-left: 30px;
+}
+
+ul{
+    display: inline-block;
+}
+li{
+    display: inline-block;
+}

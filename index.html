@@ -1,76 +1,97 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ocean site</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-    <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ocean site</title>
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script> -->
+  <link rel="stylesheet" href="css/style.css">
 </head>
-<header class="cabecera">
-  <img class="cabecera content wow animate__animated animate__backInRight" src="./img/logoOceano2 1.png" alt="logoOceano2" width="74">
-  <section id="logo"><h1>Océano</h1></section>
-
-
-<nav id="menu" class="nav content wow animate__animated animate__backInLeft">
-  <ul>
-    <li><a  href="#">Inicio</a></li>
-    <li><a href="#">Categorías</a>
-      <ul>
-        <li><a href="#">Conoce nuestros océanos</a></li>
-        <li><a href="#">Conoce a sus habitantes</a></li>
-        <li><a href="#">Curiosidades</a></li>
-        <li><a href="#">Cómo podemos cuidarlo</a></li>
-      </ul>
-  </li>
-  <li><a href="#">Imágenes</a></li>
-  <li><a href="#">Vídeos</a></li>
-  <li><a href="#">Contacto</a></li>
-
-</ul>
-</nav>
-
-</header>
-
-
 <body>
-<main>
-  <section class="content wow animate__animated animate__bounceInDown" data-wow-duration="3s"><h1 class="portada">Explora el Fascinante Mundo <br>de la Vida Marina</h1></section>
-    <section class="img"><img class="content wow animate__animated animate__fadeIn" data-wow-duration="1s" src="img/imagen1Oceano2 1.png" alt="imagen1Oceano2"></section>
+  <div class="contenedor-principal">
+  <div class="div-izquierdo"><a href = "" ><img src="img/logo-50.png" width="87px" alt=""></a></div>
+  <div class="div-centro"> 
+    <a href = "" >  <h1>Océanos</h1> </a>
+  </div>
+  <div class="div-derecho">
+      <ul class="navegador-ul">
+          <li><a href="#">Vídeos</a> </li>
+          <li><a href="#">Imágenes</a> </li>
+          <li><a href="#">Categorías</a>
+              <ul>
+                  <li><a class="nav" href="">Categoría 1</a></li>
+                  <li><a class="nav" href="">Categoría 2</a></li>
+                  <li><a class="nav" href="">Categoría 3</a></li>
+              </ul>
+          <li><a href="#">Contacto</a> </li>
+          </li>
+          <!-- <li><a href="#">Inicio</a> </li> -->
+      </ul>
+  </div>
+</div>
 
-
-
+  <!-- <div class="content wow animate__animated animate__bounceInDown" data-wow-duration="3s"><h1 class="portada">Explora el Fascinante Mundo <br>de la Vida Marina</h1></div> -->
+  <div class="imagen">
+    <video autoplay loop muted id="videoBackground">
+      <source src="video/videoInicio.mp4" type="video/mp4">
+      Tu navegador no soporta videos HTML5.
+    </video>
+    <h1 class="portada">Explora el Fascinante Mundo <br>de la Vida Marina</h1>
+  </div>
 
 
   <section class="columnas">
 
-    <article><img class="card-content wow animate__animated animate__fadeIn" data-wow-duration="2s" src="img/oceano2Imagen2 1.png" alt="oceano2Imagen2" width="301px" height="311px"></article>
-    <article class="content wow animate__animated animate__fadeIn" data-wow-duration="2s"><h3>Conoce nuestros<br>océanos</h3></article>
-    <article> <img class="card-content wow animate__animated animate__fadeIn" data-wow-duration="3s" src="img/oceano2Imagen3 1.png" alt="oceano2Imagen3" width="301px" height="311px"></article>
-    <article class="content wow animate__animated animate__fadeIn" data-wow-duration="3s" ><h3>Conoce a sus<br>habitantes</h3></article>
-    <article> <img class="card-content wow animate__animated animate__fadeIn" data-wow-duration="4s" src="img/oceano2Imagen4 1.png" alt="oceano2Imagen4" width="301px" height="311px"></article>
-    <article class="content wow animate__animated animate__fadeIn" data-wow-duration="4s"><h3>Curiosidades de los<br>mares y océanos</h3></article>
-    <article> <img class="card-content wow animate__animated animate__fadeIn" data-wow-duration="5s" src="img/oceano2Imagen5 1.png" alt="oceano2Imagen5" width="301px" height="311px"></article>
-    <article class="content wow animate__animated animate__fadeIn" data-wow-duration="5s"><h3>Cómo podemos<br>cuidarlo</h3></article>
+    <div class="tarjetas">
+
+      <div class="tarjeta">
+        <div><img src="img/oceano2Imagen2 1.png" alt="oceano2Imagen2"></div>
+        <div>
+          <h3>Conoce nuestros<br>océanos</h3>
+        </div>
+      </div>
+
+      <div class="tarjeta">
+        <div> <img src="img/oceano2Imagen3 1.png" alt="oceano2Imagen3"></div>
+        <div>
+          <h3>Conoce a sus<br>habitantes</h3>
+        </div>
+      </div>
+
+      <div class="tarjeta">
+        <div> <img src="img/oceano2Imagen4 1.png" alt="oceano2Imagen4"></div>
+        <div>
+          <h3>Curiosidades de los<br>mares y océanos</h3>
+        </div>
+      </div>
+
+      <div class="tarjeta">
+        <div> <img src="img/oceano2Imagen5 1.png" alt="oceano2Imagen5"></div>
+        <div>
+          <h3>Cómo podemos<br>cuidarlo</h3>
+        </div>
+
+      </div>
+
+    </div>
 
   </section>
 
   <script>
     new WOW().init();
   </script>
-  </main>
 </body>
 <footer>
-  <section class="ubica"><br><a href="https://maps.app.goo.gl/pSVqmTFSdqYR6Nrn6"><img src="img/ubi.png" alt="Simbolo_Ubicacion" width="17px"> Dónde estamos</a></section>
- <section id="redes">
-  <h3 class="sig">Síguenos en internet</h3>
+  <section class="ubica">Dónde estamos <img src="img/google-maps-old-50.png" alt=""></section>
+  <p class="sig">Síguenos en internet</p>
 
-  <a href="https://www.instagram.com/"><img src="img/RaphaelInstagram 1.png" alt="RaphaelInstagram1" height="25"></a>
-  <a href="https://twitter.com/?lang=es"><img src="img/RiTwitterXFill 1.png" alt="RiTwitterXFill" height="25"></a>
-  <a href="https://es.linkedin.com/"><img src="img/PhLinkedinLogoFill 1.png" alt="PhLinkedinLogoFill" height="25"></a>
-  <a href="https://www.youtube.com/"> <img src="img/MdiYoutube 1.png" alt="MdiYoutube" height="25"></a>
- </section>
+  <img class="logoSocial" src="img/instagram-50.png" alt="RaphaelInstagram1" height="45">
+  <img class="logoSocial" src="img/twitterx-50.png" alt="RiTwitterXFill" height="45">
+  <img class="logoSocial" src="img/linkedin-logo-50.png" alt="PhLinkedinLogoFill" height="45">
+  <img class="logoSocial" src="img/youtube-50.png" alt="MdiYoutube" height="45">
+
 </footer>
 
 </html>
