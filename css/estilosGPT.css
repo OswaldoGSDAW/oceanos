@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    background-color: #f1f1f1;
+    width: 100%;
+    height: 100px; /* Altura fija para la cabecera */
+    position: sticky;
+    top: 0;
+    background-color: rgb(30, 30, 156);
+    line-height: 100px;
+}
+
+main {
+    min-height: calc(100vh - 100px); /* Altura de la ventana menos la altura de cabecera y pie */
+    /* Agrega estilos adicionales aquí */
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    width: 100%;
+    height: 50px; /* Altura fija para el pie */
+    position: relative;
+    bottom: 0;
+}
+/*Cabecera*/
+.logo {
+    float: left;
+    width: 10%;
+    text-align: center;
+}
+
+.title {
+    float: left;
+    width: 40%;
+    text-align: left;
+}
+
+
+/* Mi menu */
+.navegador {
+    margin: auto;
+    width: auto;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    height: 60px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.navegador-ul li a {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: table-cell;
+    height: 30px;
+    width: 170px;
+    vertical-align: middle;
+}
+.navegador-ul li a:hover{
+    background-color: darkblue;
+
+}
+.navegador-ul > li {
+    float: left;
+    width: 200px;
+}
+/* Clearfix para limpiar después de los elementos flotantes */
+.navegador-ul:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.navegador-ul li ul{
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+.navegador-ul li:hover > ul{
+    display: block;
+}

@@ -1,9 +1,20 @@
-body{
+/* body{
     margin: 0px;
     padding: 0px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: blue;
+} */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url("../img/galeriaImagen14.webp"); /* Ruta a tu imagen de fondo */
+    background-size: cover; /* Asegura que la imagen cubra todo el contenedor */
+    background-attachment: fixed; /* Hace que la imagen de fondo sea fija */
+    background-position: center; /* Centra la imagen de fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
+
 header{
     position: sticky;
     top: 0;
@@ -165,10 +176,6 @@ footer{
     font-size: 24px;
 }
 
-/* .tarjetas{
-   
-} */
-
 .tarjeta{
     display: inline-block;
     margin-top: 100px;
@@ -233,6 +240,7 @@ ul {
 .navegador-ul > li {
     float: left;
     width: 200px;
+    text-align: center;
 }
 /* Clearfix para limpiar después de los elementos flotantes */
 .navegador-ul:after {
@@ -317,7 +325,7 @@ ul {
 .navegador-ul>li {
     float: left;
     width: 200px;
-    text-align: left;
+    text-align: center;
 }
 
 
@@ -326,6 +334,7 @@ ul {
     display: none;
     position: absolute;
     min-width: 140px;
+    text-align: left;
 }
 
 .navegador-ul li:hover>ul {
@@ -336,4 +345,50 @@ ul {
     text-decoration: none;
     color: white;
     background-color: transparent;
+}
+/* GALERÍA DE IMÁGENES */
+.contenedor-externo{
+    text-align: center;
+}
+.contenedor-imagenes{
+   display: inline-block;
+   overflow: hidden;   
+}
+.columna-imagenes{
+    width: 400px; /* Esto divide el ancho del contenedor en tres */
+    float: left; /* Esto hace que las columnas se alineen horizontalmente */
+    box-sizing: border-box; /* Esto asegura que el padding y el borde estén incluidos en el ancho */
+    margin: 5px;
+}
+.columna-imagenes img{
+    width: 100%; /* Esto hace que las imágenes se ajusten al ancho de la columna */
+    display: block; /* Esto evita que las imágenes tengan un margen blanco debajo */
+}
+.titulo-imagenes{
+    margin: 0;
+    text-align: center;
+}
+.titulo-imagenes h2{
+    margin: 0;
+    padding:25px 0px;
+    height: 60px;
+    font-size: 3em;
+    color: #233c81;
+    background-color: #233c8134;/*Fondo con transparencia*/
+}   
+/* Este efecto se puede quitar si no convence */
+.titulo-imagenes h2::before, .titulo-imagenes h2::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
+.titulo-imagenes h2:hover::after, .titulo-imagenes h2:hover::before {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #FFF;
+    filter: blur(2px); /* Añade desenfoque al pasar el cursor */
 }

@@ -1,32 +1,88 @@
-body{
+*{
     margin: 0px;
     padding: 0px;
-    font-size: 42px;
-    background-color: aqua;
-    font-family: Arial, Helvetica, sans-serif;
 }
-
-.header{
+.contenedor{
     width: 100%;
-    background-color: #10379F;
+    height: 100%;
+    background-color: rgb(8, 19, 181);
+    padding: 0px;
+    color: #FFF;
+}
+.cabecera div {
+    display: inline-block;
+    vertical-align: middle;
+    /* Especificar un ancho */
+    width: 30%;
+    height: 90px;
+    margin: 0px;
+    padding: 0px;
+}
+div.logo{
+    width: 90px;
+    height: 90px;
+
+}
+.logo img{
+    width: 80px;
+    height: 80px;
+    margin: 5px 10px;
+
+}
+div.titulo{
+    margin: 0px;
+    padding: 0px;
+    width:30%;
     height: 90px;
 }
-
-.logo{
-    display: inline-block;
-    margin-top: 10px;
-    margin-left: 10px;
-}
-
-.titulo{
-    display: inline-block;
-    color: aliceblue;
+.titulo h1{
+    font-size: 4em;
     margin-left: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
+div.navegador{
+    width: calc(99% - 90px - 30%); /* 100% menos el ancho del .logo y del .titulo */
+    margin: 0px;
+    padding: 0px;
 
-ul{
-    display: inline-block;
 }
-li{
-    display: inline-block;
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0px;
+    margin-left: 350px;
+}
+.navegador-ul li a {
+    background-color: rgb(8, 19, 181);
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: table-cell;
+    height: 30px;
+    width: 170px;
+    vertical-align: middle;
+}
+.navegador-ul li a:hover{
+    background-color: darkblue;
+    left: 0px;
+
+}
+.navegador-ul > li {
+    float: left;
+    width: 200px;
+}
+/* Clearfix para limpiar después de los elementos flotantes */
+.navegador-ul:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.navegador-ul li ul{
+    display: none;
+    position: absolute;
+    min-width: 140px;
+}
+.navegador-ul li:hover > ul{
+    display: block;
 }
