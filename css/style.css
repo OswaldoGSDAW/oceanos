@@ -112,10 +112,7 @@ h3{
     font-style:normal;
     font-size: 24px;
 }
-.sig{
-    padding-top: 22px;
-    margin-bottom: 15px;
-}
+
 .nav{
     /* float: right; */
     color: white;
@@ -156,25 +153,6 @@ section{
     background: linear-gradient(#0c47ff, #10379f);
 }
 
-footer{
-    padding-top: 1px;
-    background-color: #04206b;
-    height: 131px;
-    padding-left:35px;
-    color:white;
-    margin-left: auto;
-    margin-right: auto;
-}
-.ubica{
-    float: inline-end;
-    padding-right: 40px;
-    padding-top: 22px;
-    font-family:arial;
-    font-style:normal;
-    letter-spacing: 1px;
-    word-spacing: 5px;
-    font-size: 24px;
-}
 .tarjeta a{
     text-decoration: none;
     color: white;
@@ -209,9 +187,7 @@ footer{
 h3{
     margin-top: 30px;
 }
-.logoSocial{
-   fill:#FFF;
-}
+
 
 .navegador {
     margin-top: 80px;
@@ -354,6 +330,47 @@ ul {
     color: white;
     background-color: transparent;
 }
+
+/* PIE DE PÁGINA */
+footer{
+    padding-top: 1px;
+    background-color: #04206b;
+    height: 131px;
+    padding-left:35px;
+    color:white;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ubica{
+    float: inline-end;
+    padding-right: 40px;
+    padding-top: 22px;
+    font-family:arial;
+    font-style:normal;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    font-size: 24px;
+}
+
+.sig{
+    padding-top: 22px;
+    margin-bottom: 15px;
+}
+.logo-social{
+    background-color: #04206b; /* Gris */
+    border-radius: 20%;
+    border: 1px solid #233c81;
+    transition: 0.9s;
+    cursor: pointer;
+}
+
+.logo-social:hover {
+        filter: grayscale(100%);
+        background-color: #000; /* Gris */
+        border-radius: 10px;
+    }
+
+
 /* GALERÍA DE IMÁGENES */
 .contenedor-externo{
     text-align: center;
