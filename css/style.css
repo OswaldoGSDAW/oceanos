@@ -456,15 +456,38 @@ footer{
     color: #bbbec4;
     vertical-align: middle;
 }
-.contenedor-central::after {
-    content: "";
-    display: table;
-    clear: both;
-}
+
 .pie{
     background-color: #ffffff5e;
     padding: 20px;
     font-size: 1.5em;
     color: #bbbec4;
     text-align: center;
+}
+
+/* Página videos */
+.contenedor-videos{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.caja-video{
+    padding-top: 20px;
+    display: inline-block;
+    width: 30%;
+    background: #ffffff1e;
+    margin: 10px;
+}
+iframe{
+    width: 90%;
+    height: 300px;
+}
+.caja-video img{
+    width: 200px;
+    height: 300px;
+}
+.caja-video p, .caja-video h2{
+    margin-left: 10px;
+    text-align: left;
+    color:#FFF;
 }
