@@ -491,3 +491,99 @@ iframe{
     text-align: left;
     color:#FFF;
 }
+/*Página de contacto*/
+
+.formulario, .mapa{
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+    height: 100%;
+    color: #f0f8ff;
+}
+.formulario{
+    padding-left: 60px;
+}
+/* .formulario form{
+    background-color: rgba(192, 192, 192, 0.247);
+    width: 80%;
+    margin: 50px;
+    padding: 20px;
+} */
+
+.foto img, p, h2{
+    margin: 20px 0px 0px 200px;
+    width: 400px;
+}
+.foto a{
+    text-decoration: none;
+    background-color: transparent;
+
+}
+.foto span{
+    margin:10px;
+}
+
+form {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select,
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box; /* Asegúrate de que padding no afecte el ancho total */
+}
+
+
+input[type="range"] {
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: #4CAF50;
+    cursor: pointer;
+}
+
+input[type="range"] {
+    width: 25px;
+    height: 25px;
+    border: 0;
+    border-radius: 50%;
+    background: #4CAF50;
+    cursor: pointer;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+input[type="submit"] {
+    background-color: #2905f8;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #1100ff;
+}
+
+/* Estilos para la sección de cuotas */
+#cuota_12, #cuota_20, #cuota_40, #cuota_otra {
+    display: inline-block;
+    margin-right: 10px;
+}
