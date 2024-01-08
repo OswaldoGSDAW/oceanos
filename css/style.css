@@ -519,16 +519,13 @@ iframe{
 .formulario{
     padding-left: 60px;
 }
-/* .formulario form{
-    background-color: rgba(192, 192, 192, 0.247);
-    width: 80%;
-    margin: 50px;
-    padding: 20px;
-} */
+.foto{
 
+    margin: 0px auto;
+}
 .foto img, p, h2{
-    /* margin: 20px 0px 0px 200px; */
-    width: 400px;
+    width: 100%;
+    margin: auto 8%; 
 }
 .foto a{
     text-decoration: none;
@@ -573,15 +570,6 @@ input[type="range"] {
     cursor: pointer;
 }
 
-input[type="range"] {
-    width: 25px;
-    height: 25px;
-    border: 0;
-    border-radius: 50%;
-    background: #4CAF50;
-    cursor: pointer;
-}
-
 input[type="radio"],
 input[type="checkbox"] {
     margin-right: 10px;
@@ -599,10 +587,11 @@ input[type="submit"]:hover {
 }
 
 /* Estilos para la sección de cuotas */
-#cuota_12, #cuota_20, #cuota_40, #cuota_otra {
+/* #cuota_12, #cuota_20, #cuota_40, #cuota_otra {
     display: inline-block;
     margin-right: 10px;
-}
+} */
+/* Fin página contacto */
 
 /* Página cómo cuidarlos */
 .caja-cuidarlos{
