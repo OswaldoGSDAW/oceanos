@@ -40,17 +40,17 @@
             <form action="" method="post">
                 
                 <!-- Sección de hacerse socio -->
-                <h3>Únete a Océanos, hazte socio</h3>
+                <h2>Únete a Océanos, hazte socio</h2>
                 
                 <!-- Slider para tipo de socio -->
                 <label for="tipo_socio">Tipo de Socio:</label>
                 
                 <!-- Opciones de socio -->
-                <div>
+                <div class="formulario-contacto">
                   <input type="radio" id="socio_adulto" name="tipo_socio" value="adulto">
                   <label for="socio_adulto">Socio Adulto</label>
                 </div>
-                <div>
+                <div class="formulario-contacto">
                   <input type="radio" id="socio_juvenil" name="tipo_socio" value="juvenil">
                   <label for="socio_juvenil">Socio Juvenil</label>
                 </div>
@@ -64,30 +64,30 @@
                 </select>
                 
                 <!-- Sección de cuotas -->
-                <div>
+                <div class="formulario-contacto">
                   <input type="radio" id="cuota_12" name="cuota" value="12">
                   <label for="cuota_12">12 €</label>
                 </div>
-                <div>
+                <div class="formulario-contacto">
                   <input type="radio" id="cuota_20" name="cuota" value="20">
                   <label for="cuota_20">20 €</label>
                 </div>
-                <div>
+                <div class="formulario-contacto">
                   <input type="radio" id="cuota_40" name="cuota" value="40">
                   <label for="cuota_40">40 €</label>
                 </div>
-                <div>
+                <div class="formulario-contacto">
                   <input type="radio" id="cuota_otra" name="cuota" value="otra">
                   <label for="cuota_otra">Otra</label>
                 </div>
                 
                 <!-- Sección de formato de revista -->
                 <h3>Forma de la revista</h3>
-                <div>
+                <div class="formulario-contacto">
                   <input type="radio" id="formato_digital" name="formato_revista" value="digital">
                   <label for="formato_digital">Formato Digital</label>
                 </div>
-                <div>
+                <div class="formulario-contacto">
                   <input type="radio" id="formato_papel" name="formato_revista" value="papel">
                   <label for="formato_papel">Formato Papel</label>
                 </div>
@@ -115,9 +115,11 @@
                 <br>
                 <h2>Donde estamos</h2>
                 <img src="img/02contacto.png" alt="Imagen del mapa">
-                <p><span>Calle de enmedio</span><span>46000 - Valencia</span></p>
+                <div class="direccion">
+                  <p><span>Calle de enmedio</span><span>46000 - Valencia</span></p>
                 <p><span>Teléfon de contacto</span></p>
                 <p><span>123456789</span></p>
+                </div>
             </div>
         </div>
     </div>

@@ -510,7 +510,10 @@ iframe{
     color:#FFF;
 }
 /*Página de contacto*/
+.contacto{
+    text-align: center;
 
+}
 .formulario, .mapa{
     display: inline-block;
     width: 45%;
@@ -519,20 +522,39 @@ iframe{
     color: #f0f8ff;
 }
 .formulario{
-    padding-left: 60px;
+    background-color: #0000007e;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 30%;
+}
+.formulario h2{
+    margin: 10px;
+    width: 100%;
+    font-size: 2em;
+}
+.mapa{
+    margin-bottom: 80px;
+    margin-left: 10%;
+    padding-top: 20px;
+}
+.mapa h2{
+    margin: 10px;
+    width: 100%;
+    font-size: 2em;
+    text-align: center;
 }
 .foto{
-
     margin: 0px auto;
 }
-.foto img, p, h2{
+.foto img, p{
     width: 100%;
-    margin: auto 8%; 
+    margin: 0px;
 }
 .foto a{
     text-decoration: none;
     background-color: transparent;
-
 }
 .foto span{
     margin:10px;
@@ -554,7 +576,8 @@ input[type="email"],
 input[type="tel"],
 select,
 input[type="submit"] {
-    width: 100%;
+    display: block;
+    width: 50%;
     padding: 10px;
     margin-bottom: 20px;
     border: 1px solid #ddd;
@@ -562,18 +585,9 @@ input[type="submit"] {
     box-sizing: border-box; /* Asegúrate de que padding no afecte el ancho total */
 }
 
-
-input[type="range"] {
-    appearance: none;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    background: #4CAF50;
-    cursor: pointer;
-}
-
 input[type="radio"],
 input[type="checkbox"] {
+    display: inline-block;
     margin-right: 10px;
 }
 
@@ -588,11 +602,21 @@ input[type="submit"]:hover {
     background-color: #1100ff;
 }
 
-/* Estilos para la sección de cuotas */
-/* #cuota_12, #cuota_20, #cuota_40, #cuota_otra {
+.formulario-contacto{
     display: inline-block;
-    margin-right: 10px;
-} */
+    margin: 20px;
+    border: #f0f8ff 1px solid;
+    padding: 10px 30px;
+    text-align: center;
+    border-radius: 3px;
+}
+label{
+    text-align: left;
+}
+.direccion{
+    margin-top: 20px;
+    text-align: left;
+}
 /* Fin página contacto */
 
 /* Página cómo cuidarlos */
