@@ -34,10 +34,10 @@ En esta página principal, los visitantes se encuentran con una imagen destacada
 En la parte superior un navegador Que nos lleva a diferentes galerías de imágenes y de videos. También se cuenta con un menú desplegable que nos lleva a diferentes galerías de animales según categorías. Al final  hay un enlace para contactar.
 
 A continuación, se ofrece una galería de imágenes que nos lleva a las siguientes secciones:
-- Conoce nuestros océanos, donde se ofrece información variada sobre los océanos. 
-- Conoce a sus habitantes donde se puede ver una breve explicación de los animales que viven según la profundidad. 
-- Curiosidades de los océanos donde se ofrecen datos curiosos de los océanos. 
-- Cómo podemos cuidarlo donde se muestra acciones que se pueden hacer para no contaminar los océanos.
+	- Conoce nuestros océanos, donde se ofrece información variada sobre los océanos. 
+	- Conoce a sus habitantes donde se puede ver una breve explicación de los animales que viven según la profundidad. 
+	- Curiosidades de los océanos donde se ofrecen datos curiosos de los océanos. 
+	- Cómo podemos cuidarlo donde se muestra acciones que se pueden hacer para no contaminar los océanos.
 
 
 La página web concluye con información de contacto, incluyendo una dirección de correo electrónico y un formulario de contacto. 
@@ -62,55 +62,55 @@ Además de la página principal, la web ofrece siete páginas adicionales donde 
 En conjunto, esta página web ofrece una experiencia completa y educativa para los visitantes, con el objetivo de crear conciencia y fomentar la acción en apoyo a la conservación de los océanos.
 
 1.3. Comparativa
-	- Comparar el proyecto con otros similares o existentes. 
-		-- ¿Hay otras iniciativas o aplicaciones relacionadas con la conservación del entorno marino? 
-		-- ¿En qué aspectos se diferencia tu proyecto? 
-		-- ¿Qué ventajas ofrece?
-	- Sitios donde se han buscado recursos
+- Comparar el proyecto con otros similares o existentes. 
+	- ¿Hay otras iniciativas o aplicaciones relacionadas con la conservación del entorno marino? 
+	- ¿En qué aspectos se diferencia tu proyecto? 
+	- ¿Qué ventajas ofrece?
+- Sitios donde se han buscado recursos
 
--- Imágenes
+	- Imágenes
 
 [istockphoto](https://www.istockphoto.com/es/search/2/image?phrase=oceanos%20ong)
 
---- https://www.agenciasinc.es/Noticias/El-sistema-de-corrientes-del-oceano-Atlantico-podria-colapsar-a-mediados-de-siglo
+- https://www.agenciasinc.es/Noticias/El-sistema-de-corrientes-del-oceano-Atlantico-podria-colapsar-a-mediados-de-siglo
 
---- https://upload.wikimedia.org/wikipedia/commons/2/21/Fish-collage-1502404.jpg
+- https://upload.wikimedia.org/wikipedia/commons/2/21/Fish-collage-1502404.jpg
 
---- https://www.nationalgeographic.com.es/ciencia/oceanos-almacen-mundial-co2_14206
+- https://www.nationalgeographic.com.es/ciencia/oceanos-almacen-mundial-co2_14206
 
 --- 
--- Diseño
+- Diseño
 
---- https://uicolors.app/create
+	- https://uicolors.app/create
 
---- https://tintmint.net/
+	- https://tintmint.net/
 
---- Iconos https://yesicon.app/search/youtube
+	- Iconos https://yesicon.app/search/youtube
 
---- https://uicolors.app/create
+	- https://uicolors.app/create
 
---- https://oceana.org/
+	- https://oceana.org/
 
---- https://www.oceanario.pt
+	- https://www.oceanario.pt
 
---- https://theoceancleanup.com/rivers/
+	- https://theoceancleanup.com/rivers/
 
---- https://www.theseacleaners.org/es/sensibilizacion/
+	- https://www.theseacleaners.org/es/sensibilizacion/
 
--- Datos
+- Datos
 
---- https://www.biodiversidad.gob.mx/ecosistemas/ecosismex/ambiente-pelagico
+	- https://www.biodiversidad.gob.mx/ecosistemas/ecosismex/ambiente-pelagico
 
---- https://public.wmo.int/es/nuestro-mandato/esferas-de-inter%C3%A9s/oc%C3%A9anos/tiempo-y-clima
+	- https://public.wmo.int/es/nuestro-mandato/esferas-de-inter%C3%A9s/oc%C3%A9anos/tiempo-y-clima
 
---- https://www.nationalgeographic.es/medio-ambiente/2020/12/catorce-paises-se-comprometen-a-proteger-los-oceanos
+	- https://www.nationalgeographic.es/medio-ambiente/2020/12/catorce-paises-se-comprometen-a-proteger-los-oceanos
 
---- https://cleanoceanproject.org/es
+	- https://cleanoceanproject.org/es
 
 
 ## 2. ANÁLISIS Y PLANIFICACIÓN 
 
-2.1. Análisis 
+- 2.1. Análisis 
 	- 2.1.1. Requisitos funcionales de los usuarios
 		- El usuario deberá trener un navegador web y conexión a internet. 
 	- 2.1.2. Requisitos de la aplicación 
@@ -119,29 +119,29 @@ En conjunto, esta página web ofrece una experiencia completa y educativa para l
 		- El sitio está desarrollado con HTML 5 y CSS
 
 2.2. Planificación y fases del desarrollo 
-	**Semana 1: Del 23/10 al 29/10**
-		Día 1 (23/10): Reunión inicial para definir roles y responsabilidades.
-		Día 2 (24/10): Investigación inicial y recopilación de recursos necesarios.
-		Día 3 (27/10): Comienza a trabajar en la estructura y diseño general del proyecto.
-		Día 4 (30/10): Reunión de seguimiento para discutir el progreso y planificar la próxima semana.
-**Semana 2: Del 30/10 al 5/11**
-Día 5 (31/10): Continúa trabajando en el diseño y comienza a implementar las funcionalidades básicas.
-Día 6 (2/11): Realiza pruebas preliminares para asegurarte de que el proyecto está en el camino correcto.
-Día 7 (3/11): Reunión para evaluar el progreso y ajustar el enfoque si es necesario.	
+- **Semana 1: Del 23/10 al 29/10**
+	- Día 1 (23/10): Reunión inicial para definir roles y responsabilidades.
+	- Día 2 (24/10): Investigación inicial y recopilación de recursos necesarios.
+	- Día 3 (27/10): Comienza a trabajar en la estructura y diseño general del proyecto.
+	Día 4 (30/10): Reunión de seguimiento para discutir el progreso y planificar la próxima semana.
+- **Semana 2: Del 30/10 al 5/11**
+	- Día 5 (31/10): Continúa trabajando en el diseño y comienza a implementar las funcionalidades básicas.
+	- Día 6 (2/11): Realiza pruebas preliminares para asegurarte de que el proyecto está en el camino correcto.
+	- Día 7 (3/11): Reunión para evaluar el progreso y ajustar el enfoque si es necesario.	
 **Semana 3: Del 6/11 al 12/11**
-Día 8 (7/11): Completa la implementación de las funcionalidades principales.
-Día 9 (9/11): Realiza pruebas exhaustivas y corrige errores.
-Día 10 (13/11): Reunión para revisar y pulir detalles finales.
-**Semana 4: Del 13/11 al 19/11**
-Día 11 (14/11): Prepara la documentación necesaria y finaliza cualquier aspecto pendiente.
-Día 12 (16/11): Realiza una revisión final del proyecto y garantiza que todo esté en orden.
-Día 13 (17/11): Prepara la entrega final del proyecto.
+	- Día 8 (7/11): Completa la implementación de las funcionalidades principales.
+	- Día 9 (9/11): Realiza pruebas exhaustivas y corrige errores.
+	- Día 10 (13/11): Reunión para revisar y pulir detalles finales.
+- **Semana 4: Del 13/11 al 19/11**
+	- Día 11 (14/11): Prepara la documentación necesaria y finaliza cualquier aspecto pendiente.
+ 	- Día 12 (16/11): Realiza una revisión final del proyecto y garantiza que todo esté en orden.
+	- Día 13 (17/11): Prepara la entrega final del proyecto.
 
 
 ## 3. DESARROLLO
 
 3.1. Diseño
-	- La web intenta que el usuario se acerque al mundo del la mar y sea consciente de su importancia y de que en ella viven especies que de no cuidar nosotros el medio ambiente provocaremos su extinción.
+- La web intenta que el usuario se acerque al mundo del la mar y sea consciente de su importancia y de que en ella viven especies que de no cuidar nosotros el medio ambiente provocaremos su extinción.
 	Los colores que se usan son los relativos a los tomnos azules del mar que es el color más característico de los mares y océano.
 	![](paleta.png)
 
